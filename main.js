@@ -61,7 +61,7 @@ function getQuestions() {
     }
   };
 
-  myRequest.open("GET", "https://github.com/zakaria1161984/questions-and-answer.git", true);
+  myRequest.open("GET", "html_questions.json", true);
   myRequest.send();
 }
 
