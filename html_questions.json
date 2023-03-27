@@ -70,5 +70,13 @@
       "answer_3": "<div class=\"class-name\">",
       "answer_4": "All Is Right",
       "right_answer": "All Is Right"
+    },
+    {
+      "title": "من هو اول منتخب حصل على كاس العالم",
+      "answer_1": "البرازيل",
+      "answer_2": "الاوروغواي",
+      "answer_3": "ايطاليا",
+      "answer_4": "فرنسا",
+      "right_answer": "الاوروغواي"
     }
   ]
